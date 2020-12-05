@@ -7,7 +7,7 @@
 ---- 
 
 ### About me
-Hi, I am Vinicius, but you can call me a Vini, I am 17 years old, I live in Minas Gerais, Brazil 🏠, I am currently studying Pentest 📚, I like programming and playing.
+Hi, I am Vinicius, but you can call me Vini, I am 17 years old, I live in Minas Gerais, Brazil 🏠, I am currently studying Pentesting 📚, I like programming and playing.
 
 * 👾 Always trying to evolve
 * 🤡 I hate studying network
