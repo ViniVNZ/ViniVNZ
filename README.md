@@ -1,6 +1,6 @@
 ### Hello, I'm Vinicius 👋
 <a target="_blank" href="https://twitter.com/ViniciusVnZ1">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="LinkdeIN" width="100px" src="https://img.shields.io/badge/Twitter-0078D6?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 </br>
 ---- 
