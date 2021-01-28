@@ -3,7 +3,7 @@
   <img align="left" alt="LinkdeIN" width="100px" src="https://img.shields.io/badge/Twitter-0078D6?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 </br>
----- 
+
 
 ### About me
 Hi, I am Vinicius, but you can call me Vini, I am 17 years old, I live in Minas Gerais, Brazil 🏠, I am currently studying Pentesting 📚, I like programming and playing.
