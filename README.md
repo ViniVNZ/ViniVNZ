@@ -17,6 +17,7 @@ Hi, I am Vinicius, but you can call me Vini, I am 17 years old, I live in Minas 
 
 ![Win](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_linux-02569B?style=for-the-badge&logo=kali-linux&logoColor=white)
+[Ubuntu](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ----
 
