@@ -38,6 +38,7 @@ Hi, I am Vinicius, but you can call me Vini, I am 17 years old, I live in Minas 
 **Database**
 
 ![My](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Post](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ----
 
